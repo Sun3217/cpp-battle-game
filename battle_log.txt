@@ -1,0 +1,4 @@
+===Battle log===
+Before attack HP: 185
+After attack HP: 170
+Damage: 15
